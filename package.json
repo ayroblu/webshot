@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "sanitize-filename": "^1.6.1",
     "webshot": "^0.18.0"
   }
 }
